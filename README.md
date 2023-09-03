@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Batsal Rijal (@batsalr9)
+# 👋 Hi, I'm Batsal (@batsalr9)
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
