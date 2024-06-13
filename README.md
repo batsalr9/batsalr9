@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Batsal Nath Shrestha</h1>
-<h3 align="center">I’m interested in software development, machine learning, and open-source projects. I’m currently learning and exploring new technologies to expand my skillset. I’m looking to collaborate on exciting projects that align with my interests, so feel free to reach out if you have something interesting in mind!</h3>
+<h1 align="center">Hi, I'm Batsal Nath Shrestha</h1>
 
 <p align="left"> <a href="https://twitter.com/zeyrox_gb" target="blank"><img src="https://img.shields.io/twitter/follow/zeyrox_gb?logo=twitter&style=for-the-badge" alt="zeyrox_gb" /></a> </p>
 
