@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zeyrox_gb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeyrox_gb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/batsal nath shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batsal nath shrestha" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/batsal nath shrestha](https://www.linkedin.com/in/batsal-nath-shrestha-243a56269/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batsal nath shrestha" height="30" width="40" /></a>
 <a href="https://fb.com/batsal shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="batsal shrestha" height="30" width="40" /></a>
 <a href="https://instagram.com/batsal.shr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batsal.shr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/batsalr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="batsalr0" height="30" width="40" /></a>
